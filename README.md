@@ -8,4 +8,12 @@
 
 ## 2. 感知器
 
+其实就是线性回归，一层神经网络
+
 https://github.com/ityuhui/statistics-learning-method-lab/tree/master/2-perceptron
+
+
+## 3. K近邻法
+
+## 4. 朴素贝叶斯
+
