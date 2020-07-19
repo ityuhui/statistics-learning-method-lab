@@ -8,7 +8,7 @@
 
 ## 2. 感知器
 
-其实就是线性回归，一层神经网络
+其实就是一层神经网络
 
 https://github.com/ityuhui/statistics-learning-method-lab/tree/master/2-perceptron
 
@@ -31,13 +31,13 @@ https://github.com/ityuhui/statistics-learning-method-lab/tree/master/2-perceptr
 
 支持向量（距离超平面最近的向量）
 
-## 8.
+## 8. 提升方法
 
-## 9.
+## 9. EM算法及其推广
 
-## 10.
+## 10. 隐马尔可夫模型
 
-## 11.
+## 11. 条件随机场
 
 
 
